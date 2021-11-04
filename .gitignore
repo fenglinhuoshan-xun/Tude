@@ -3,6 +3,6 @@ file1
 # 所有的.jpg文件都不受git管理
 *.jpg
 # 文件夹不受git管理
-dir/
+#dir/
 # 除了img.jpg之外的其他的.jpg不受git管理。这个受git管理
 !img.jpg
